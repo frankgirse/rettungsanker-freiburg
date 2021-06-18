@@ -1,8 +1,6 @@
 import { graphql, useStaticQuery } from 'gatsby'
 import React from 'react'
 import styled from 'styled-components'
-import LogoAlt from '../images/logoalt.png'
-import portraitBild1 from '../images/portrait-mick.png'
 import portraitBild2 from '../images/matrose.png'
 import portraitBild3 from '../images/Offizierin.png'
 import BackgroundImage from 'gatsby-background-image'

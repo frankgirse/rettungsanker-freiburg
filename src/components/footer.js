@@ -42,7 +42,7 @@ export default class Footer
                         </li>
 
                         <li className="mb-4 ">
-                            <p>phone: +49 761 3838 7777
+                            <p>phone: +49 761 3838 6747
                             </p>
                         </li>
 

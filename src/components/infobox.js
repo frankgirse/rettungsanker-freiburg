@@ -55,7 +55,7 @@ const Infobox = () => {
                     <img className="md:mt-3 w-8 h-9 ml-5 p-2 lg:w-12 lg:h-10 " 
                             src={PhoneIllu} 
                             alt="Ilustration Phone gelb"/>
-                    <p className="lg:mt-5 lg:text-sans lg:text-yellow-100 lg:font-semibold">+49 761 3838 7777</p>
+                    <p className="lg:mt-5 lg:text-sans lg:text-yellow-100 lg:font-semibold">+49 761 383 867 47</p>
 
             </div>
          {/*====================================== ende kontakt ============================================= */} 

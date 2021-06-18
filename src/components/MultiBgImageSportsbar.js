@@ -95,17 +95,7 @@ const MultiBackground = ({ className }) => {
       fluid={backgroundFluidImageStack}
     >
       <StyledInnerWrapper>
-              <figure className="lg:w-96 lg:py-2/12 lg:mx-auto " >
-              <StaticImage
-                        alt="Illustration Sportarena"
-                        className=""
-                        src={"../images/sportarena.png"}
-                        layout="constrained"/>
-              </figure>
-              
-             
-              
-
+         
       </StyledInnerWrapper>
     </BackgroundImage>
   )
